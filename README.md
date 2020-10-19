@@ -1,5 +1,5 @@
 # jnn
-Simple Feedworward Neural Network using the Naive Optimizer
+Simple Feedforward Neural Network using the Naive Optimizer
 
 Includes the mnist dataset and some trained models for it.
 
